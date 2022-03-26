@@ -19,7 +19,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | Python | MySQL
+- 💻 &nbsp; Python | Java | C++ | PHP | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
