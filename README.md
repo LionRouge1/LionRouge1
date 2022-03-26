@@ -19,7 +19,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | Python | MySQL
+- 💻 &nbsp; Python | Java | C++ | PHP | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-[![Matchoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionRouge1&show_icons=true)](https://github.com/LionRouge1)
+[![Matchoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionRouge1&show_icons=truetheme=radical)](https://github.com/LionRouge1)
 
 <br/>
 
