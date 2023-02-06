@@ -20,17 +20,17 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | PHP | MySQL
+- 💻 &nbsp; Ruby | Java | Python | PHP | MySQL | PostgreSQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | PostgreSQL
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git | Github | Mobile/Responsive Development | RSpec | TDD | Chrome Dev Tools
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 
 -->
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | AI
 
 <hr>
 
