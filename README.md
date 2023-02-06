@@ -24,15 +24,11 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
-<!--
-
 - 🛢 &nbsp; MySQL | PostgreSQL
 
 - 🔧 &nbsp; Git | Github | Mobile/Responsive Development | RSpec | TDD | Chrome Dev Tools
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
-
--->
 
 
 
