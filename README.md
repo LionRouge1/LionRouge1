@@ -14,10 +14,7 @@
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
 
-
-
 <h3>🛠 Tech Stack</h3>
-
 
 
 - 💻 &nbsp; Ruby | Java | Python | PHP | MySQL | PostgreSQL
@@ -31,14 +28,11 @@
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 
 
-
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | AI
 
 <hr>
-
-
 
 <br/><br/>
 
@@ -54,17 +48,11 @@
 
 <br><br>
 
-
-
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-
 
 <p align="center">
 
@@ -75,10 +63,4 @@
 <a href="mailto:matchoudiavlessi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matchoudiavlessi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-
-
-
-
-
-
 <hr>
