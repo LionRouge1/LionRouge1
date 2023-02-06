@@ -5,10 +5,11 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
+- 💻 &nbsp; Back-end Developer at Crowdfrica
 
-- ✍️ &nbsp; Student at Microverse.
+- ✍️ &nbsp; Graduate from Microverse.
 
-- 🎓 &nbsp; Bachelor degree in Computer Science and Engineering at UPI-ONM BENIN.
+- 🎓 &nbsp; Bachelor degree in Computer Networking and Telecommunication at UPI-ONM BENIN.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
