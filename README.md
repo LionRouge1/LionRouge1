@@ -5,11 +5,11 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 💻 &nbsp; Back-end Developer at Crowdfrica
+- 💻 &nbsp; Senior Software Engineer
 
 - ✍️ &nbsp; Graduate from Microverse.
 
-- 🎓 &nbsp; Bachelor degree in Computer Networking and Telecommunication at UPI-ONM BENIN.
+- 🎓 &nbsp; Bachelor's degree in Computer Networking and Telecommunication at UPI-ONM BENIN.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -17,11 +17,11 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Ruby | Java | Python | PHP | MySQL | PostgreSQL
+- 💻 &nbsp; Ruby | Python | PHP | Java | JavaScript | HTML | CSS
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Ruby on Rails | React | NextJs | TypeScript | Djago | Tailwind | Bootstrap 
 
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL | MangoDB
 
 - 🔧 &nbsp; Git | Github | Mobile/Responsive Development | RSpec | TDD | Chrome Dev Tools
 
