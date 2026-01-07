@@ -36,7 +36,8 @@
 
 <br/><br/>
 
-[![Matchoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionRouge1&show_icons=truetheme=radical)](https://github.com/LionRouge1)
+[![Matchoudi's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LionRouge1&show_icons=true&theme=radical)](https://github.com/LionRouge1)
+
 
 <br/>
 
