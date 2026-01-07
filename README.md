@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Ruby | Python | PHP | Java | JavaScript | HTML | CSS
+- 💻 &nbsp; Ruby | Python | PHP | Java | C++ | JavaScript | HTML | CSS
 
 - 🌐 &nbsp; Ruby on Rails | React | NextJs | TypeScript | Djago | Tailwind | Bootstrap 
 
