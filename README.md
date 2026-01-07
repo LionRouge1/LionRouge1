@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | AI
+- 🔧 &nbsp; AWS | Azure | Docker🐳 | Firebase | flask | AI
 
 <hr>
 
