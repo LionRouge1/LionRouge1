@@ -27,10 +27,12 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 
+- ☁️ &nbsp; AWS | Azure | Docker🐳 | CI and CD pipeline
+
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Azure | Docker🐳 | Firebase | flask | AI
+- 🔧 &nbsp; LLM Integration | Data/Vector Stores | Rust
 
 <hr>
 
